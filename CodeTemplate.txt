@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//CHANGE ME: Fortnite
+//Jayden Chavez
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (pick axe hits hit points) {
+    surface breaks faster
 } else {
-    //Add event below
+    surface takes longer to break 
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (drink mini shield and shield is under 50) {
+    shield increases
 } else {
-    //Add event below
+    shield remains the same
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (player falls) {
+    health decreases
 } else {
-    //Add event below
+    health remains the same
 }
 
 
